@@ -1,1 +1,4 @@
 Semanal
+Quincenal
+Mensual
+
